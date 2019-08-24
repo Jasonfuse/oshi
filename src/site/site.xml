@@ -40,9 +40,9 @@
 	</custom>
 	<body>
 		<links>
-			<item name="oshi" href="http://github.com/oshi/oshi" />
+			<item name="oshis" href="http://github.com/oshi/oshi" />
 		</links>
-		<menu name="User guide">
+		<menu name="User guides">
 			<item href="README.html" name="README" />
 		</menu>
 		<menu ref="reports" />
